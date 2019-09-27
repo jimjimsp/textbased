@@ -1,0 +1,7 @@
+{
+  "name": "Test Room",
+  "description": "It is a well lit room. It is nice. Except for the gigant cupboard in the corner.",
+  "items": ["key"],
+  "interactables": ["door", "cupboard"],
+  "enter_message": " Some time in the afternoon. I must be in the living room, because I feel the sun on my face from two directions, from the two windows. Hot, mid July. My caretaker is breathing heavily. He must be reading a detective novel."
+}

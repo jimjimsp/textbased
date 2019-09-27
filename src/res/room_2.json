@@ -1,0 +1,7 @@
+{
+  "name": "Second Room",
+  "description": "A bright room. You can see a door and a cupboard.",
+  "items": ["key"],
+  "interactables": ["door", "cupboard"],
+  "enter_message": "You enter the next room. It is bright, but in all other ascpects identical with the previous one. You can see a door and a cupboard."
+}

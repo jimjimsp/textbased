@@ -1,0 +1,29 @@
+{
+  "interactables": [
+    {
+      "name": "door",
+      "type": "door",
+      "to_room": "room_2",
+      "inspect": "it is a door",
+      "inspect_done": "it is a door",
+      "interact_message": "you open the door",
+      "interact_status": "door opened",
+      "interact_criterion": "door unlocked",
+      "interact_failed": "the door is locked",
+      "interact_message_done": "the door is already open",
+      "enter_criterion": "door opened",
+      "enter_failed": "the door is closed"
+    },
+    {
+      "name": "cupboard",
+      "type": "object",
+      "inspect": "it is a cupboard",
+      "inspect_done": "it is a opened cupboard",
+      "interact_message": "you open the cupboard. There is a key inside.",
+      "interact_status": "cupboard open",
+      "interact_criterion": "null",
+      "interact_failed": "null",
+      "interact_message_done": "There is nothing in the cupboard."
+    }
+  ]
+}

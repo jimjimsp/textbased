@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "name": "key",
+      "inspect": "it is a key",
+      "use_message": "null",
+      "use_criterion": "null",
+      "use_status": "null",
+      "use_failed": "null",
+      "use_on_message": "the door is unlocked",
+      "use_on_criterion": "null",
+      "use_on_status": "door unlocked",
+      "use_on_failed": "I can't unlock that",
+      "pick_up_criterion": "cupboard open",
+      "pick_up_failed": "I can't see a key",
+      "interactable": "door"
+    }
+  ]
+}
